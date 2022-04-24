@@ -1,0 +1,3 @@
+C:/Users/guiratec/Downloads/TAREA2/arbol_matriz/cmake-build-debug/CMakeFiles/arbol_matriz.dir
+C:/Users/guiratec/Downloads/TAREA2/arbol_matriz/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/guiratec/Downloads/TAREA2/arbol_matriz/cmake-build-debug/CMakeFiles/rebuild_cache.dir
